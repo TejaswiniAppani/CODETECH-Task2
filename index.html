@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Weather Forecast</h1>
+        </header>
+        <main>
+            <form id="location-form">
+                <div class="input-group">
+                    <input type="text" id="city" placeholder="Enter city" required>
+                    <input type="text" id="country" placeholder="Enter country" required>
+                    <button type="submit">Get Weather</button>
+                </div>
+            </form>
+            <div class="weather-card">
+                <div class="location" id="location">--</div>
+                <div class="weather-icon">
+                    <img id="weather-icon" src="" alt="Weather Icon">
+                </div>
+                <div class="temperature" id="temperature">--°C</div>
+                <div class="description" id="description">--</div>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
