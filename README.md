@@ -43,7 +43,7 @@ View the current weather information displayed on the screen.
 
 Screenshots
 
-![image](https://github.com/TejaswiniAppani/CODETECH-Task2/assets/173262523/46dff541-1912-4dbd-8a3e-e29437237ef7)
+![image](https://github.com/TejaswiniAppani/CODETECH-Task2/assets/173262523/bdb88162-f06c-4473-948a-5032479900cb)
 ![image](https://github.com/TejaswiniAppani/CODETECH-Task2/assets/173262523/403c3e59-072d-4017-aef0-7d5f0c1af363)
 ![image](https://github.com/TejaswiniAppani/CODETECH-Task2/assets/173262523/2df11931-2cab-48c9-9bd1-1018f9eab017)
 ![image](https://github.com/TejaswiniAppani/CODETECH-Task2/assets/173262523/a48fec41-14e2-4efc-88f0-d282963f359b)
